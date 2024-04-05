@@ -1,0 +1,5 @@
+INFO 2024-04-05 11:55:06,241 autoreload 38844 29300 Watching for file changes with StatReloader
+WARNING 2024-04-05 11:55:08,176 log 38844 10508 Not Found: /
+WARNING 2024-04-05 11:55:09,183 log 38844 10508 Not Found: /favicon.ico
+WARNING 2024-04-05 11:55:09,529 log 38844 10508 Not Found: /highLightTitle.png
+WARNING 2024-04-05 11:55:16,409 log 38844 38888 Not Found: /shop/highLightTitle.png
